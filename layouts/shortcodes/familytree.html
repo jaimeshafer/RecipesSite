@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Our Family Tree</title>
+  <script src="https://balkan.app/js/orgchart.js"></script>
+  <style>
+    #tree {
+      width: 150%;
+      height: 900px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Our Family Tree</h2>
+  <div id="tree"></div>
+
+  <script>
+    var chart = new OrgChart(document.getElementById("tree"), {
+      template: "olivia",
+      mode: "dark",
+      nodeBinding: {
+        field_0: "name",
+        img_0: "image"
+      },
+      nodes: [
+        // { id: 1, name: "Dan Shafer", image: "/images/dan.jpg", link: "/dan-section" },
+        { id: 1, name: "Shafer Shafer", image: "/img/shari.png", link: "/shafer-fam/grammies-cookbook/" },
+        { id: 3, name: "Jaime Shafer", image: "/img/jaime.png", pid: 1 },
+        { id: 4, name: "Jonathan Shafer", image: "/img/jon.png", pid: 1 },
+        { id: 5, name: "Kristian Shafer", image: "/img/kris.png", pid: 1 }
+      ],
+      nodeMouseClick: OrgChart.action.none // disables default click
+    });
+
+    // Make NAME a clickable hyperlink
+    chart.on('field', function(sender, args) {
+      if (args.name === 'name') {
+        var link = args.data.link;
+        args.value = "<a href='" + link + "' target='_blank'>" + args.data.name + "</a>";
+      }
+    });
+  </script>
+</body>
+</html>
