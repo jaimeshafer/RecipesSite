@@ -1,4 +1,5 @@
 # Cowboy Caviar
+![](img/CowboyCaviar.jpg)
 
 ### Ingredients
 
