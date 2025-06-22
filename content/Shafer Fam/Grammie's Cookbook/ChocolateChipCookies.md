@@ -3,7 +3,8 @@
 ### Ingredients
 
 - 2 1/2 cups flour
-- 1 teaspoon salt (Redmonds Real Salt)
+- 1 teaspoon baking soda
+- 1/2 teaspoon salt (Redmonds Real Salt)
 - 2 Sticks room temperature butter
 - 3/4 cup sugar
 - 3/4 cup light brown sugar
