@@ -1,5 +1,7 @@
 # Chicken Pot Pie
+
 ### Instructions
+
 - 1 box (2 count), rerigerated pie crust, softened
 - 1/3 cup butter (2/3 stick)
 - 1/3 cup chopped onion
@@ -12,6 +14,7 @@
 - 2 cups frozen mixed vegetables, thawed
 
 ### Instructions
+
 - Pre-heat oven to *425. Prepare pie crusts as directed on box and place in pie pan
 - In large sauce pan, melt butter over medium heat. Add onion and cook for 2 minutes. Stirring frequently, until tender.
 - Stir in flour, salt, and pepper until well blended. Gradually stir in broth and milk, cooking and stirring until bubbly and thickened.
