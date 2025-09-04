@@ -1,4 +1,4 @@
-baseURL:
+baseURL: ""
 languageCode: en-us
 title: Our Family Recipe Site
 module:
@@ -6,9 +6,11 @@ module:
     - path: github.com/imfing/hextra
 url: ""
 enableInlineShortcodes: true
+
 taxonomies:
   category: categories
   tag: tags
+
 menu:
   main:
     - name: MawMaw
@@ -24,3 +26,8 @@ menu:
       weight: 4
       params:
         type: search
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

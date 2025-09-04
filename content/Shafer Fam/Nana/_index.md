@@ -11,50 +11,27 @@ cascade:
 ![](img/IMG_4621.jpeg)
 
 
+
 <style>
-  #book .page {
-    display: none; /* hide all pages by default */
-  }
+  #book .page { display: none; }
+  #book .page:first-child { display: block; } /* fallback */
 </style>
 
 <div id="book">
 
   <div class="page">
     <h2>Page 1</h2>
-    <p>My name is Gina. I was born in the town of Modena, Italy a long time ago. We were a family of five children and myself, that made us a family of six children.
-Also two twin boys that had only lived a
-few days. I faintly seem to remember them. If they had been born today, I am sure they would have lived.
-later.
-Our father left us to come to America to seek his fortune. He would send for us
-At this time there were only three
-children. The twins were born a short time after our father left. For a short time we went to stay, until the twins were born, at our grandmother's house.
-We
-almost lost our mother, and the twin boys only lived a very short time.
-us •
-us.
-When
-I can still remember how our father looked from a large picture that hung on our kitchen wall. We were quite young when he left us. He was in full view of He was young and so handsome.
-Dark
-wavy hair, a mustache and so beautiful to we looked at him, his eyes
-seemed to follow us and smile. He was so dear to us and we loved him so much. We all were living for the day that we would all be together in America.
-than I was.
-for her age.
-this as she got older.
-right.
-My brother Lino was two years older
-Our sister Elsa Cristina was
-eighteen months younger than me.
-So small
-She was frail but
-so cute.
-We all kept a close and careful watch over her because she was sick a lot.
-The
-doctors said that she would outgrow all
-I do not believe
-now that they knew exactly what was wrong.
-No tests of any kind. Only their guess.
-Now many years later, I knew they were
-As we grew older, she grew</p>
+    <p>My name is Gina. I was born in the town of Modena, Italy a long time ago. We were a family of five children and myself, that made us a family of six children. Also two twin boys that had only lived a
+    few days. I faintly seem to remember them. If they had been born today, I am sure they would have lived.
+
+    Our father left us to come to America to seek his fortune. He would send for us later. At this time there were only three children. The twins were born a short time after our father left. For a short time we went to stay, until the twins were born, at our grandmother's house. We almost lost our mother, and the twin boys only lived a very short time.
+
+    I can still remember how our father looked from a large picture that hung on our kitchen wall. We were quite young when he left us. He was in full view of us. He was young and so handsome.
+
+    Dark wavy hair, a mustache and so beautiful us. When we looked at him, his eyes seemed to follow us and smile. He was so dear to us and we loved him so much. We all were living for the day that we would all be together in America.
+
+    My brother Lino was two years older than I was. Our sister Elsa Cristina was eighteen months younger than me. So small for her age. She was frail but so cute. We all kept a close and careful watch over her because she was sick a lot. The doctors said that she would outgrow all this as she got older. I do not believe now that they knew exactly what was wrong. No tests of any kind. Only their guess. Now many years later, I knew they were right. As we grew older, she grew
+</p>
   </div>
 
   <div class="page">
@@ -100,35 +77,36 @@ to affect her or Papa Vechio. Later on as times grew harder and harder, as we he
 
 </div>
 
-<div id="controls" style="margin-top:1em;">
+<div id="controls">
   <button id="prevBtn">← Previous</button>
   <button id="nextBtn">Next →</button>
 </div>
 
 <script>
-  const pages = document.querySelectorAll('#book .page');
-  let currentPage = 0;
+  window.addEventListener('DOMContentLoaded', () => {
+    const pages = document.querySelectorAll('#book .page');
+    let currentPage = 0;
 
-  function showPage(index) {
-    pages.forEach((p, i) => {
-      p.style.display = i === index ? 'block' : 'none';
+    function showPage(index) {
+      pages.forEach((p, i) => {
+        p.style.display = i === index ? 'block' : 'none';
+      });
+    }
+
+    document.getElementById('prevBtn').addEventListener('click', () => {
+      if (currentPage > 0) {
+        currentPage--;
+        showPage(currentPage);
+      }
     });
-  }
 
-  document.getElementById('prevBtn').addEventListener('click', () => {
-    if (currentPage > 0) {
-      currentPage--;
-      showPage(currentPage);
-    }
+    document.getElementById('nextBtn').addEventListener('click', () => {
+      if (currentPage < pages.length - 1) {
+        currentPage++;
+        showPage(currentPage);
+      }
+    });
+
+    showPage(currentPage);
   });
-
-  document.getElementById('nextBtn').addEventListener('click', () => {
-    if (currentPage < pages.length - 1) {
-      currentPage++;
-      showPage(currentPage);
-    }
-  });
-
-  // Show the first page on load
-  showPage(currentPage);
 </script>
