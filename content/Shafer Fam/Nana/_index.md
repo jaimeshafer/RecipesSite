@@ -37,43 +37,24 @@ My brother Lino was two years older than I was. Our sister Elsa Cristina was eig
 
   <div class="page">
     <h2>Page 2</h2>
-    <p>stronger and taller than I was. My sweet and very dear smaller sister. We were so close. We needed no other friends. We had each other. we were each other's best friend. Such a long time ago.
-My sister was so much wiser than I
-was •
-I could always depend on her to
-listen to my problems that would be so
-upsetting to me.
-She was so calm and
-would just listen. She always had time for me.
-She was the stronger of the two
-of us.
-I could always lean on her for her
-opinion and comfort. She was one of God's gifts to all of us and especially to me.
-I shall
-always love her and miss her. I
-shall
-always love her and pray that the day will come when we can be together once more. Then I could tell her how much my heart aches for her. Who knows, she may already know.
-She may be watching all of
-her family and dear ones. Who knows?
-When we were still in Italy we were
-so poor.
-Our mother was working in the
-fields with other poor women. Working hard just keeping body and soul together.
-This was during the first world war. All of the men except old men and very young boys had gone to war. Italy was at war with Germany. Such a poor country to be at war.
-This country could hardly feed
-its people. This we children would hear from the elders.
-We were too young to
-understand all this. So life just went on. The hard struggle to survive.
-Our grandmother, whom we called Mama Vechia, meaning older mama, was well-to-do.
-The hardship of the war did not seem
-to affect her or Papa Vechio. Later on as times grew harder and harder, as we heard, they also were feeling the hardship. The</p>
+    <p>
+stronger and taller than I was. My sweet and very dear smaller sister. We were so close. We needed no other friends. We had each other. we were each other's best friend. Such a long time ago. My sister was so much wiser than I was. I could always depend on her to listen to my problems that would be so upsetting to me. She was so calm and would just listen. She always had time for me. She was the stronger of the two of us. I could always lean on her for her opinion and comfort. She was one of God's gifts to all of us and especially to me. I shall always love her and miss her. I shall always love her and pray that the day will come when we can be together once more. Then I could tell her how much my heart aches for her. Who knows, she may already know. She may be watching all of her family and dear ones. Who knows? 
+    
+When we were still in Italy we were so poor. Our mother was working in the fields with other poor women. Working hard just keeping body and soul together. This was during the first world war. All of the men except old men and very young boys had gone to war. Italy was at war with Germany. Such a poor country to be at war. This country could hardly feed its people. This we children would hear from the elders. We were too young to understand all this. So life just went on. The hard struggle to survive.
+
+Our grandmother, whom we called Mama Vechia, meaning older mama, was well-to-do. The hardship of the war did not seem to affect her or Papa Vechio. Later on as times grew harder and harder, as we heard, they also were feeling the hardship. The
+  </p>
   </div>
 
   <div class="page">
     <h2>Page 3</h2>
-    <p>Morbi sit amet nunc ac nulla porta sagittis. Curabitur ultricies sapien
-    ac libero fermentum, at sodales nunc volutpat. Aenean feugiat, lectus vel
-    porta laoreet, nunc ex laoreet ipsum.</p>
+    <p>
+government took just about everything that was raised on their large place. Corn, wheat or whatever was grown. They did not get paid. Everything grown was on record and had to be accounted for. If anyone hid corn or wheat, they went to jail or were fined. Also the millers would be afraid to grind the wheat into flour and the corn into corn meal. They were very closely watched so they were afraid to take any chances.
+
+I remember men coming into Papa Vechio's house and looking into every nook and crannies to see if anything had been stashed away in secret places. I held my breath because I knew of one hiding place where there was some corn and wheat that had been hidden, That was missed and they did not find that place. What a fright that was had by all of us. Papa Vechio could find no miller that would grind all this for him. They were all afraid to take a chance. Everything that was ground had to be accounted for. I cannot remember what Papa Vechio did with his corn and wheat. I never found out.
+
+Our mother came from well-to-do people. I remember their big dream house. It was white. It had so many rooms. Mama was engaged to marry a doctor but she fell in love with out father. They eloped and were married, something that Mama Vechia never forgave our father for. She never seemed to tire talking about him. She would go on and on. She would say he was a drifter. a bum and so many other mean things. All this would be so hurtful to us because we loved him. He did promise he would send for us. How could Mama Vechia tell everyone how now he had left his family? At the time, our little
+    </p>
   </div>
 
 </div>
