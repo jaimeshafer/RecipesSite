@@ -90,9 +90,107 @@ It was then the custom that when sons married, they made their homes with the pa
   <div class="page">
     <h2>Page 6</h2>
     <p>
-were cousins to play with.
+were cousins to play with. I only got a spanking twice. Once for crying too much. The other time for killing over a dozen of my Mama Vechia's chicks. Grandmother told my brother and me to take the chicks and put them into these round containers. There were quite few of these containers. Then we were to put a screen on top so they would not hop out. It was getting pretty dark. We were in a hurry. My brother caught the chicks and handed them to me. I would jam them into this one container. When it was full I just pushed down the top. They all seemed to fit then. Then I put the top on.
+
+In the morning we were awakened by Mama Vechia. She sounded so angry. She was speaking so loudly. It sent a chill down my back when I heard her talking about the chicks. Also a good spanking that we were promised when we got up.
+
+Mama Vechia, being an honest woman, surely kept her promise. I cried so hard and wanted to go home. This was the second spanking that she gave me. I often wondered why she was always willing to spank me. could it have been that I reminded her of someone?
+
+Mama was a beautiful sewer. She made my sister Elsa and me each a beautiful dress. They were both alike. They were a maroon color. Buttons to match. They were so very pretty. Mama had made them for us to have our picture taken for our passport to come to America. I have a picture of us on my dresser. I often look at it and seem to go back to the day we went to have that taken. This was in 1918. So long ago. So very long ago.
   </p>
   </div>
+
+  <div class="page">
+    <h2>Page 7</h2>
+    <p>
+One day one o my aunts had asked me if I would lend her daughter, one
+of my cousins who was my size. my dress. They were going to have their picture taken. My sister Elsa was lending her dress to the other cousin who was her size. I agreed to it until I saw them driving away in their horse and buggy.
+
+All of a sudden I changed my mind. I wanted my dress back. I am sure now they must have heard me. I was screaming. But they just kept on going. Mama Vechia took matters into her hands. Again I was spanked. Maybe a little harder than my cousins were spanked, seeing that I looked so much like my father. Again I wanted to go home.
+
+Our house in Italy was a small place. I do not remember too much about our furniture. We were so poor. We must have had barely what we needed. I do remember our front door that had no hinges. Mama would just place the door in the doorway. This was done before we went to bed. Also a chair was placed in front of the door. We never seened ti ve afraid, Our Aunt Corona lived with us. She was our father's youngest sister. We had never heard of anyone being murdered as they slept. We had other houses real close to us. We also prayed a lot. So I guess we felt safe. So I seemed to think.
+
+Every morning we all attended church. This one evening, I thought the end of the world had come. Everyone so, so terribly frightened. We were still at war with Germany. We children were not really aware of what was going on. We were seeing many soldiers and heard loud sounds. Where we lived, we heard loud
+  </p>
+  </div>
+
+
+  <div class="page">
+    <h2>Page 8</h2>
+    <p>
+bombs that shook the ground. We would lay on the ground and we heard the bombing so much louder. The fighting was not in our town. The fighting was about twenty miles from where we lived. This we had heard people saying.
+
+This one evening, as I have started to write about. We heard this terrible loud sound that seemed to light up the whole inside of the church. The church just shook. Window panes shattered to the floor. Everyone started screaming and running toward doors to get out of the church. We must have been sitting near the doors. Mama and Aunt Corona grabbed us so fast. I do believe that we were the first out of the church. I heard talk later about this little old woman who had fallen. The people trampled on her to get out. Later she had died. I was so upset and cried. How could people be so cruel. All that night we heard the bombing. The ground shaking. no one entered their homes. We all slept outdoors under trees.
+
+The next day we heard the news that they had bombed a place called Tripoli. was twenty miles from our town. After all this, everything seemed to be back to normal again to us children. All this I shall always remember.
+
+We children were used to rising early in the morning. This one morning I went outdoors. The sun was just coming up. Looking up toward the sky, I saw the most beautiful sight that will always stay in my mind. Across the sky over our house was this big long thing. It just seemed to just glide so slowly and so smoothly
+  </p>
+  </div>
+
+  <div class="page">
+    <h2>Page 9</h2>
+    <p>
+across the sky. It made no noise. Just so quiet. The sun shone on it and it was a copper color. So shiny and so very beautiful. It was quite low and so large. I was frightened by it even though it was so beautiful. I ran into the house to tell my mother. I wanted her to see it also. She came out and looked. She said that it was a dirigible. It was shaped like a watermelon, only so very, very big. So beautiful, but so frightening.
+
+Our Aunt Corona cared for us while Mama went to work in the fields. When we had a thunder storm, she was so frightened. So were we. She would have us get on our knees and pray. We would be down in the cellar. It was so dark and we were afraid. She told us to pray as hard as we could. We then would be safe. She was right. We were safe. God did hear our prayers.
+
+One afternoon we were supposed to take our daily naps. Aunt Corona was in bed with us. In Italy, most everyone took a nap right after lunch for an hour or two. Our Aunt Corona and our sister Elsa were both asleep. my brother and I sneaked downstairs and went outdoors. Aunt Corona did not hear us. It was a hot day. We just sat there wondering what to do. The house next door to us had these beautiful flowers growing in front o their house. no one was home there at this time of day. My brother Lino and I thought how nice they would look in front of our own house. We picked every one of those flowers. We then made small piles of dirt in front of our own house. We then took the flowers we had picked and planted them in the piles of dirt we had made in front o our own house. We were
+  </p>
+  </div>
+
+  <div class="page">
+    <h2>Page 10</h2>
+    <p>
+so proud and could hardly wait until Mama came home. We wanted to surprise her. We were wishing she would hurry home. The sun was so hot and the lowers were beginning to wilt.
+
+I need not explain what did happen when the lady who owned the flowers and when mama came home. Through the years, brother and I never, never picked flowers together again.
+
+We now were beginning to get ready to come to America. I felt so sad to be leaving my cousins and relatives. What bit of furniture we had was being taken away. Our house now was empty. Mama was dressing now. We were all ready to go. Mama's sister, Aunt Tonia, and Mama Vechia had arrived. There were neighbors to say good-bye. The house was full of people now. Everyone was so sad. How I wish I was not going now.
+
+Mama went to the closet to get her new shoes. She had put a ring that our father had given her in the toe of the shoe. The ring was gone. She thought that it would be safe. She was so heartbroken that she cried. How could anyone steal a ring at such a time like this? Maybe someone has that ring today. Who knows? It was bever found out who took the ring.
+
+We were all saying our good-byes when we received a telegram saying we could all go except Elsa. She was too small and delicate and sickly. What a difference today. Everyone and everything is coming into this country. Mama would not leave without one of her children. So we stayed to try again in another year. After being
+  </p>
+  </div>
+
+  <div class="page">
+    <h2>Page 11</h2>
+    <p>
+out to sea, the ship we were supposed to have been on struck a mine. It sank with everyone on board. We were still at war. God was with us when we decided not to go. So now we should be making plans again, to still go to America in another year or so.
+
+Now things were back to normal again. We had our own furniture back again. All except Mama's beautiful ring. Mama and Mama vechia had their idea who took the ring. They never mentioned it any more. You just cannot go up and tell a person that they had stolen the ring. So no more was said about it.
+
+Mama had two sisters. Their names were Tedea and Tonia. Mama Vechia was named Carolina. She also had three brothers. When we left for America, they were still in the Army. I very faintly remember them. I was very young when my uncles went off to war. The war was a very long one.
+
+Our father's family was a small family. Papa had three sisters. He was the only son. In Italy, boys were treated like royalty. Little girls just happened to be there. Papa was so spoiled by his his three sisters and mother. They even shined his shoes, so I had heard. So he grew up to do whatever took his fancy. Papa traveled a lot when he was a young man. He went to France, Germany, and other faraway places. So going to America was no surprise to his family or those who knew him.
+
+I faintly remember my other grandmother. Her nam was Rina. She was Papa's mother. She was a happy person, so I had heard. We called her Nona. Our
+  </p>
+  </div>
+
+  <div class="page">
+    <h2>Page 12</h2>
+    <p>
+grandfather I never knew. He had passed away before I knew him. I do remember Nona was so proud of my brother Lino. She would take my brother around to be shown to all her friends. I was just a little girl who stayed home. Nona did not live so long. She died of a heart attack at age 53 years. mama vechia and our Nona had never met.
+
+Papa was a happy person. he took after his mother. He never seemed to worry over anything. He was quite moody at times. Everything had to be his way. He ruled us with an iron hand. This will all be explained later.
+
+Papa's three sisters were named Corona, Nina, and Edere. I only seem to remember Aunt Nina and Aunt Corona. These were good people. They tried hard to survive doing their best. They were honest people. They had so little.
+
+My brother was the joy in their life. I am glad that he brought them happiness. I know they loved Elsa and me. I just know t hat they must have. I do not remember our Nona ever spanking us.
+
+My brother Lino and I were still getting into trouble. Mama had made a large polenta. It was supposed to be for our supper. Mama had just poured it on this flat board after it was cooked. Then it was supposed to be cut with a string into slices. My brother dared me to slap it as hard as I could right in the center. He would always dare me to do things. I wanted so badly to please him so that he would like me. Mama was so tired, I know she was not aware of what we were
+  </p>
+  </div>
+
+  <div class="page">
+    <h2>Page 13</h2>
+    <p>
+
+  </p>
+  </div>
+
 
 
 </div>
