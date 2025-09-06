@@ -57,6 +57,44 @@ Our mother came from well-to-do people. I remember their big dream house. It was
     </p>
   </div>
 
+  <div class="page">
+    <h2>Page 4</h2>
+    <p>
+sister Else was too young to understand it all. She would fall asleep. My brother Lino and I had a hard time trying to listen with respect to her. We knew she was wrong. We were sure.
+
+Mama Vechia was one of the pillars of the town. She was very deeply respected by everyone. This I was told years later. Marrying someone so poor from such a poor family almost killed her. How could her daughter do such a thing to her? I do believe that to be so poor was a mortal sin to our Mama Vechia.
+
+I often wondered if she really loved us, especially me. It must have almost killed her when she looked at me.
+
+Our grandfather, Papa Vechio, was named after the king of Italy. That year, every boy born in Italy they named after the king - Vitorio Emanuelo. His name was Sala. Our mama was named Ermelinda. Grandfather was a tall gentle man. Soft spoken with a dark mustache. He spoiled Mama Vechia. He provided his family with a large home. People working for him. He was loved by everyone. This I cannot say about our Mama Vechia. She had all the say about everything. (Our father loved him.) I shall always remember him with love. Our dear Papa Vechio. So kind and understanding.
+
+Our Mama Vechia, as I was told, had blonde hair and beautiful blue eyes when she was young. NOw as I remember her, dark blue eyes and white hair. Her clothes all custom made, as were our mother's and her sisters' before our mother married. A schoole mate that had gone to schjool with our mother told me
+  </p>
+  </div>
+
+  <div class="page">
+    <h2>Page 5</h2>
+    <p>
+years later that Mama and her two sisters led the fashion in that town. They wore black ribbon bows in the back of their heads in their hair. All the young girls would pick up that fashion. If skirts were half an inch shorter, that was the style of their town. Mama had never told us that. I was surprised to hear this. I often wondered as I was growing up if she ever missed all these things. She had never mentioned any of these things to us. She never spoke of her family when we were here in America. I am getting ahead of my story.
+
+Her life here in America, the land that seemed to be so promising to her, was a hard life. She never complained. I seem to know that she was homesick for her family. Again I am ahead of my story.
+
+Mama Vechai and Papa Vechio's house was a very large house. As I have already mentioned, so many rooms. One room was like the inside of a church. On one side was an alter. In the evenings prayer was said. During the day the room seemed so dark and so quiet. Sort of scary to us small children. We were not allowed in that room alone.
+
+There was another room that had a brick oven. Twice a month the help would bake the bread. When we stayed over, we would awaken to the smell of the freshly baked bread. The bakinh would begin at four in the morning. Such a delicious smell I would never forget.
+
+It was then the custom that when sons married, they made their homes with the parents of the son. It may be different now. I loved going there because there
+  </p>
+  </div>
+
+  <div class="page">
+    <h2>Page 6</h2>
+    <p>
+were cousins to play with.
+  </p>
+  </div>
+
+
 </div>
 
 <div id="controls">
