@@ -187,10 +187,50 @@ My brother Lino and I were still getting into trouble. Mama had made a large pol
   <div class="page">
     <h2>Page 13</h2>
     <p>
+planning. I slapped that polenta real hard and screamed. It just stuck to my arm and I could not wipe my arm clean. mama almost fainted. She was so shocked. I cried all night. I had the largest blister on the whole arm. It was so, so painful. I shall never forget the terrible pain.
 
+This being during the war, our food was rationed to just enough food to keep us alive. The soldiers did not get enough food to eat. They would risk a beating from their higher up to beg food from house to house. Some were caught and suffered terrible beatings. One soldier I had seen was tied to a tree for three days and nights with his hands tied behind him.
+
+During this war, if you were real sick you were allowed a half pound of meat a week. Also coffee was given out only if a person was very sick. This was also strictly rationed.
+
+I had just started school. We had to go by the soldier that had been tied to a tree. I was so afraid of him. He looked so terrible. I would walk as far away from that tree as I could. I was so sorry for him and had to cry. He was watched. No one dared helped him or go near him.
+
+We would know when the cavalry was going to go by. All the people would line each side of the road. They watched this sad sight of these poor soldiers. Their clothes so tattered. Their feet wrapped in worn shoes or rags -- whatever they could find. This I clearly remember. The people would wipe tears as they watched in silence.
   </p>
   </div>
 
+  <div class="page">
+    <h2>Page 14</h2>
+    <p>
+The soldiers were not allowed to ride their horses. If one soldier would hang onto his horse's tail. he was hit with a whip. These soldiers were weak from hunger. Yet, they had to march. The horses also were weak from starvation. I used to hear people talking about all this cruelty. I remember seeing this one soldier, hanging onto the tail of his horse. His eyes were closed. He was limp with his feet dragging. We all cried and were hoping he would not be beaten for this. I could not seem to forget him for a long time.
+
+Now life went on for us as usual. My brother sitting on the sill of an upstaires window. One foot over the sill on the outside of the window. mama crying. Everyone so afraid that he would fall and land on the brick patio below. I was told to keep him talking and to keep going upstairs as I talked. Someone behind me made a grab for him and pulled him in. Whatever possessed him to do such a thing.
+
+Another thing I find hard to believe is whatever possessed us to drink wine from a barrel. Also leaving the spigot wide open. This was beore Papa had left or America. I do not seem to remember this too clearly. My brother and I were both drunk. Wine flowed everywhere. The barrel was empty. Someone was not watching us? Aunt Corona, where were you?
+
+Mama and Papa were just returning from I do not know where. They saw my brother and me falling and getting up. They said, "Look at them, they look as though they are drunk." My brother was throwing his hat into the air. He would fall trying to catch it. They were right.
+  </p>
+  </div>
+
+  <div class="page">
+    <h2>Page 15</h2>
+    <p>
+we were drunk. My brother, I remember, got a spanking. I do not remember if I was also spanked.
+
+Once again now, we were making plans and getting ready to leave for America. Getting rid of our furniture or whatever we had. Everyone crying and saying good-bye to us. I felt so sad and thought my heart would break. I really did not want to go now that the time had come again. Until we were to board our ship, Mama Vechia and Zia Tonia would be with us. The name of our ship would be Giussepe Verdi, an Italian liner. In its day, one of the largest of its kind. The year was 1919. This was the end of World War I. This ship carried American officers. They occupied the first class floor. We were supposed to travel first class, also. We were on the second floor level which was to be first class for passengers. I know that must have been expensive. I am sure that our Mama Vechia must have had a hand in the extra expense.
+
+The day before we were to board our ship we all went shopping. We were in Genoa, Italy. Mama Vechia had bought my sister and me beautiful dolls. Beautiful hair and pretty china teeth. I shall never forgot how beautiful they were. Elsa's was dressed in a beautiful pink dress. My doll was dressed in blue. They must have been the most expensive dolls that money could buy. I do not remember what she had bought our brothers Lino. I am sure that he fared well also.
+
+That night we all slept at a hotel. We had eaten in a beautiful restaurant. I was so impressed with the ice in our water glasses. Also the lovely rolls that were
+  </p>
+  </div>
+
+  <div class="page">
+    <h2>Page 16</h2>
+    <p>
+
+  </p>
+  </div>
 
 
 </div>
