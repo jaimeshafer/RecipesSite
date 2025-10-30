@@ -228,7 +228,15 @@ That night we all slept at a hotel. We had eaten in a beautiful restaurant. I wa
   <div class="page">
     <h2>Page 16</h2>
     <p>
+set before us. Those dinner rolls were so, so good just eating them by themselves was still so delicious.
 
+We children were sent to bed early. Mama Vechia and Zia Tonia talked and cried. I am sure they never went to bed that night. They must have known they were never to see each other again. And so that was to be. as that was the last time they were ever to be together again.
+
+Early the next morning we arose. We were all so sad because it was almost time for us to part. Every rtime I started to cry I was told not to cry. Cryinf would make my eyes swollen and red. I may not pass the inspection that was given as we got on ship. It was so hard to keep from crying because my heart was breaking. To this day I hate to say good-bye. I always feel so saf. I do not remember if we had our breakfast. I am sure we had.
+
+Mama Vechia and were gone now. Mama was so brave trying not to cry. Aunt Tonia and Mama Vechia had hugged and kissed us all. I was so happy that Mama Vechia had hugged and kissed me so hard. She may have for that moment forgotten who I resembled, for a moment only. Maybe she did love me after all. I like to believe that because I loved her very much.
+
+Now we were alone, and on our way to America. A new country. We had left behind us our loved ones and everything dear to us. We now were on our own. We would be at sea for fourteen days. We felt sadness and also excitement. A new beginning of our lives. Knowing that we may never be returning again to the country that we would be leaving and had 
   </p>
   </div>
 
