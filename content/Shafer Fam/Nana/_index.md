@@ -243,26 +243,26 @@ Now we were alone, and on our way to America. A new country. We had left behind 
   <div class="page">
     <h2>Page 17</h2>
   <p>
-    left far behind. I felt so very sad. I know that Mama must have felt that way also. We were never to return ever again. It was just as well that we did not know.
+  left far behind. I felt so very sad. I know that Mama must have felt that way also. We were never to return ever again. It was just as well that we did not know.
 
-    We were now boarding the ship that was to take us on a fourteen day long trip. I do not remember if we walked up a ramp or climbed stairs. There were quite a few others with us. We were stopped before entering the ship. There were people ahead of us being examined. They checked our eyes, ears, nose, hearts and lungs. We were all so nervous that it was hard to breath easily and look really healthy. Even our little sister went through it just fine. We were so happy.
+  We were now boarding the ship that was to take us on a fourteen day long trip. I do not remember if we walked up a ramp or climbed stairs. There were quite a few others with us. We were stopped before entering the ship. There were people ahead of us being examined. They checked our eyes, ears, nose, hearts and lungs. We were all so nervous that it was hard to breath easily and look really healthy. Even our little sister went through it just fine. We were so happy.
 
-    Our little cabin was rather small. Two bunk beds on each side of the room. We were comfortable in that small room. We were so fascinated by the sink in the room. There was this fancy handle on the wall. When we pulled it down a small sea-shell shaped sink would be there. We had never seen anything so beautiful. We could not believe that hot and cold water came out of those fancy pretty knobs. We were always washing ourselved. We never had been so clean. In the evening before we went to bed a knock would be at our door. A waiter came in with a pitcher of ice water and ice. Also glasses to drink from. What a treat. Ice and such delivious cold water.
+  Our little cabin was rather small. Two bunk beds on each side of the room. We were comfortable in that small room. We were so fascinated by the sink in the room. There was this fancy handle on the wall. When we pulled it down a small sea-shell shaped sink would be there. We had never seen anything so beautiful. We could not believe that hot and cold water came out of those fancy pretty knobs. We were always washing ourselved. We never had been so clean. In the evening before we went to bed a knock would be at our door. A waiter came in with a pitcher of ice water and ice. Also glasses to drink from. What a treat. Ice and such delivious cold water.
 
-    A school friend of Mama came on board when we did. She was in the third class below us. Mama never seemed to leave her bed. She was very sea sick. I do not remember her ever eating. This school mate of hers watched us children. She was
+  A school friend of Mama came on board when we did. She was in the third class below us. Mama never seemed to leave her bed. She was very sea sick. I do not remember her ever eating. This school mate of hers watched us children. She was
   </p>
   </div>
 
   <div class="page">
     <h2>Page 18</h2>
   <p>
-    coming to America to get married. This friend of hers was sending for her. After we all left the ship we were never to see her again. I do not know where she was to meet her future husband. Maybe Mama heard from her. This I do not know. Also being only eight, she was out of my mind when we parted.
+  coming to America to get married. This friend of hers was sending for her. After we all left the ship we were never to see her again. I do not know where she was to meet her future husband. Maybe Mama heard from her. This I do not know. Also being only eight, she was out of my mind when we parted.
 
-    Mama's friend would take us to the large and beautiful dinning room for all our meals. I can not seem to remember her name. The dining room was always set up with white table cloths and napkins at every table. Where we always sat for our breakfast you could look out and see ther ocean. It made you seem to wonder if we were really safe. Everyone you looked at all seemed not to worry, so I guess we were safe. So we ate and went to see if Mama could eat if the friend ordered food. She could not eat and later I heard she had lost fourteen pounds.
+  Mama's friend would take us to the large and beautiful dinning room for all our meals. I can not seem to remember her name. The dining room was always set up with white table cloths and napkins at every table. Where we always sat for our breakfast you could look out and see ther ocean. It made you seem to wonder if we were really safe. Everyone you looked at all seemed not to worry, so I guess we were safe. So we ate and went to see if Mama could eat if the friend ordered food. She could not eat and later I heard she had lost fourteen pounds.
 
-    This one morning we went for breakfast and our friend was complaining about how salty the coffee was. She could not drink it. The next morning she discovered she had put salt in her coffee instead of sugar. We all thought it was so funny.
+  This one morning we went for breakfast and our friend was complaining about how salty the coffee was. She could not drink it. The next morning she discovered she had put salt in her coffee instead of sugar. We all thought it was so funny.
 
-    We stopped at one port to have coal put on the boat. We sttayed for almost two days. I do not remember the name of the place. I do remember my brother Lino telling me to reach over the side to see how dar I ould reach. I did and then found out that I could not right myseld up again. I felt a hand grab me on the seat of my panties. I was pidcked up and set on the floor. The man shook his finger in my face. He told me never to try that again.
+  We stopped at one port to have coal put on the boat. We sttayed for almost two days. I do not remember the name of the place. I do remember my brother Lino telling me to reach over the side to see how dar I ould reach. I did and then found out that I could not right myseld up again. I felt a hand grab me on the seat of my panties. I was pidcked up and set on the floor. The man shook his finger in my face. He told me never to try that again.
 
   </p>
   </div>
@@ -270,101 +270,115 @@ Now we were alone, and on our way to America. A new country. We had left behind 
   <div class="page">
     <h2>Page 19</h2>
   <p>
-     He said if we wre out to sea I would have fallen over and drowned. That really scared me so much I promised I would never do that again.
+  He said if we wre out to sea I would have fallen over and drowned. That really scared me so much I promised I would never do that again.
 
-     In the evening at eight o'clock there would be dancing. I used to beg to say up for just a little while to watch and hear the beautiful music. Once I was allowed. Our friend took us children to watch. We stayed only a short time. The ladies wore beautiful gowns and long gloves. How much I wished I could be grown up and dancing, waring a beautiful dress with no back and long gloves. When we went back to our state room, I daydreamed that I was there dancing in a beautiful gown.
+  In the evening at eight o'clock there would be dancing. I used to beg to say up for just a little while to watch and hear the beautiful music. Once I was allowed. Our friend took us children to watch. We stayed only a short time. The ladies wore beautiful gowns and long gloves. How much I wished I could be grown up and dancing, waring a beautiful dress with no back and long gloves. When we went back to our state room, I daydreamed that I was there dancing in a beautiful gown.
 
-     Our voyage seemed to be going smoothly all except one night. We were all in bed sleeping. We heard this loud whistle. Everyone was ordered to put on their life preserver and to go on deck. We joined the long line of people in their night clothes or whatever they could grab. Everyone looking worried and frightened. We were told to keep calm and listen to orders. I looked out at the water and it seemed to go so gihg. Some workmen lowered these canvas curtains to keep the water from splashing on deck. To me this was so frightening. Some people were crying. I thought we were all doomed. I was cold and shivering so hard. I was so sleepy and wishing I could be in my own warm bed. How long we stood there in line I do not remember. To me it seemed like forever. Then at last we were told that it was calming down and we could all return to our cabins.
+  Our voyage seemed to be going smoothly all except one night. We were all in bed sleeping. We heard this loud whistle. Everyone was ordered to put on their life preserver and to go on deck. We joined the long line of people in their night clothes or whatever they could grab. Everyone looking worried and frightened. We were told to keep calm and listen to orders. I looked out at the water and it seemed to go so gihg. Some workmen lowered these canvas curtains to keep the water from splashing on deck. To me this was so frightening. Some people were crying. I thought we were all doomed. I was cold and shivering so hard. I was so sleepy and wishing I could be in my own warm bed. How long we stood there in line I do not remember. To me it seemed like forever. Then at last we were told that it was calming down and we could all return to our cabins.
 
-     Our little sister Elsa stayed in the cabin a lot with Mama. She was so small
+  Our little sister Elsa stayed in the cabin a lot with Mama. She was so small
   </p>
   </div>
 
   <div class="page">
     <h2>Page 20</h2>
   <p>
-    For her age. She was so cute and always with a smile on her face. She seemed to win everyone over.
+  For her age. She was so cute and always with a smile on her face. She seemed to win everyone over.
 
-    Across rom our cabin were two officers that were on their way home from the war. I do not know what their ranks were in the service. The higher ranked officer was ocer to see us in first class. As I have already written, the first world war had ended so all of these officers were going home. 
+  Across rom our cabin were two officers that were on their way home from the war. I do not know what their ranks were in the service. The higher ranked officer was ocer to see us in first class. As I have already written, the first world war had ended so all of these officers were going home. 
 
-    These two neighbors of ours were yound men. They were so friendly. They always seemed to have chocolate bars to give us children. We had grown to love them. They would sing and dance for us. He would hold our little sister's hands and tell her to step on their feet. They would dance. How she loved that. She was so happy.
+  These two neighbors of ours were yound men. They were so friendly. They always seemed to have chocolate bars to give us children. We had grown to love them. They would sing and dance for us. He would hold our little sister's hands and tell her to step on their feet. They would dance. How she loved that. She was so happy.
 
-    Now it was about time that my brother and I started acting up again. We had asked Mama's fcriend if we could walk around the deck. We had promised her that we would just walk and not bother anyone/ So she gave her permission. So we started our walk. There were chairs and people sitting there. Some reading, other just sitting and looking at people as they walked by. We were being real good and just walking.
+  Now it was about time that my brother and I started acting up again. We had asked Mama's fcriend if we could walk around the deck. We had promised her that we would just walk and not bother anyone/ So she gave her permission. So we started our walk. There were chairs and people sitting there. Some reading, other just sitting and looking at people as they walked by. We were being real good and just walking.
 
-    All of a sudden we came upon these stairs that led to the third class below. There was an iron railing we leaned on looking down below. To our surprise we saw this black man looking up at us with a
+  All of a sudden we came upon these stairs that led to the third class below. There was an iron railing we leaned on looking down below. To our surprise we saw this black man looking up at us with a
   </p>
   </div>
 
   <div class="page">
     <h2>Page 21</h2>
   <p>
-    big smile. He had such white teeth. We had never seen a black person before. We could not seem to believe our eyes. Our eyes must have seemed like they were popping out of our heads. The man looked at us and how we was laughing. He was sitting next to a barrel and a bushel basket. He was peeling potatoes. He held up a hershey bar to us telling us to come and get it. We did not understand what he was saying, but we knew what he meant.
+  big smile. He had such white teeth. We had never seen a black person before. We could not seem to believe our eyes. Our eyes must have seemed like they were popping out of our heads. The man looked at us and how we was laughing. He was sitting next to a barrel and a bushel basket. He was peeling potatoes. He held up a hershey bar to us telling us to come and get it. We did not understand what he was saying, but we knew what he meant.
 
-    We wanted that chocolate bar so much but we were afraid of him. My brother said to me, "This is what we will do. You go down those stairs, grab the candy and run back up as fast as you can." I said I was afraid. We were whispering in Italian. I took one more look at the man. He seemed to be enjoying watching us. He was still smiling.
+  We wanted that chocolate bar so much but we were afraid of him. My brother said to me, "This is what we will do. You go down those stairs, grab the candy and run back up as fast as you can." I said I was afraid. We were whispering in Italian. I took one more look at the man. He seemed to be enjoying watching us. He was still smiling.
 
-    Brother wanted me to go down so badly. He said, "You do not have to go down all the way. Do not go down the last three steps. I will be here and I will be watching you." I ran down the steps my heart was beating so fast. I did not go down the three steps as my brother had told me not to do. I grabbed the candy and ran up those stairs so fast. Brother was nowhere to be seen. I was frightened. So very frightened I ran to tell Mama what I had seen. We all shared that chocolate bar. All except Mama. She was still sea sick. She had never seen a black person. I felt so important telling them about him.
+  Brother wanted me to go down so badly. He said, "You do not have to go down all the way. Do not go down the last three steps. I will be here and I will be watching you." I ran down the steps my heart was beating so fast. I did not go down the three steps as my brother had told me not to do. I grabbed the candy and ran up those stairs so fast. Brother was nowhere to be seen. I was frightened. So very frightened I ran to tell Mama what I had seen. We all shared that chocolate bar. All except Mama. She was still sea sick. She had never seen a black person. I felt so important telling them about him.
 
-    There was talk about seeing a tall lady that arose from the water. She would be holding a big light in her hand. It frightened me to hear this. I noticed that some people were on deck all looking
+  There was talk about seeing a tall lady that arose from the water. She would be holding a big light in her hand. It frightened me to hear this. I noticed that some people were on deck all looking
   </p>
   </div>
 
   <div class="page">
     <h2>Page 22</h2>
   <p>
-    to see this big ladyl I also looked but did not see her. That was just fine with me because I was afraid to see her. For two or three days passengers were looking for this big lady. Then I had forgotten all about her. This was three days before we docked. Whatever the reason was, everyone on board was vaccinted. Children, adults, everyone to everyone's distress. 
+  to see this big ladyl I also looked but did not see her. That was just fine with me because I was afraid to see her. For two or three days passengers were looking for this big lady. Then I had forgotten all about her. This was three days before we docked. Whatever the reason was, everyone on board was vaccinted. Children, adults, everyone to everyone's distress. 
 
-    The woman were saying in two or three days everyone would be sick. So everyone washed their arms with soap and water. They rubbed and scrubbed. They said that this would keep us all from being sick. when we were due to get off the ship. iI guess it worked. I do not seem to remember anyone being sick when it was time to disembark.
+  The woman were saying in two or three days everyone would be sick. So everyone washed their arms with soap and water. They rubbed and scrubbed. They said that this would keep us all from being sick. when we were due to get off the ship. iI guess it worked. I do not seem to remember anyone being sick when it was time to disembark.
 
-    Now we were to go through the same examinations that we had gone through when we gor on board the ship. We passed our examination just fine. Some did not pass. I sligtly remember some crying as they were told to get back on board the ship. I felt so sorry for them.
+  Now we were to go through the same examinations that we had gone through when we gor on board the ship. We passed our examination just fine. Some did not pass. I sligtly remember some crying as they were told to get back on board the ship. I felt so sorry for them.
 
-    We were told to move on now. Our father was waiting for us on the other side of this fence that was separating the people that were waiting for their families or relatives who had gotten off the ship. We were so excited. Our father came forward to meet us. We were all crying with joy. We were so very happy.
+  We were told to move on now. Our father was waiting for us on the other side of this fence that was separating the people that were waiting for their families or relatives who had gotten off the ship. We were so excited. Our father came forward to meet us. We were all crying with joy. We were so very happy.
 
-    As things calmed down after the hugs and kisses, I looked at my father. He looked so very different from my father that hung on the wall of our kitchen. This person was older and wore glasses.
+  As things calmed down after the hugs and kisses, I looked at my father. He looked so very different from my father that hung on the wall of our kitchen. This person was older and wore glasses.
   </p>
   </div>
 
   <div class="page">
     <h2>Page 23</h2>
   <p>
-    His hair was quite thin and he was so much heavier looking than he looked in the picture that we look at every day. Right there and then I was so sure that he was not our father. I pulled away from him when he reached out toward me. He was smiling at me and looked so glad to see all of us. I had to make sure that we had the right father! I pulled Mama to one side and told her that he was not our father. Mama gave me a stern look and told me not to speak so loudly. He would hear me. Of course he is your father.
+  His hair was quite thin and he was so much heavier looking than he looked in the picture that we look at every day. Right there and then I was so sure that he was not our father. I pulled away from him when he reached out toward me. He was smiling at me and looked so glad to see all of us. I had to make sure that we had the right father! I pulled Mama to one side and told her that he was not our father. Mama gave me a stern look and told me not to speak so loudly. He would hear me. Of course he is your father.
 
-    As the day wore on, I must have made Mama so unhappy as every chance I had I would say the same thing to her. I looked at my brother Lino and sister Elsa. They seemed to accept this father of ours. They, with our mother, seemed happy. Hard as I tried, I was so unhappy. I cannot seem to remember our trip to Torrington, Conn. too well. Also where we ate that day. I do remember the hotel where we spent the night. This was the year of 1919.
+  As the day wore on, I must have made Mama so unhappy as every chance I had I would say the same thing to her. I looked at my brother Lino and sister Elsa. They seemed to accept this father of ours. They, with our mother, seemed happy. Hard as I tried, I was so unhappy. I cannot seem to remember our trip to Torrington, Conn. too well. Also where we ate that day. I do remember the hotel where we spent the night. This was the year of 1919.
 
-    Today this place would be called a flop house. I did know know this was not the best of hotels. Our room was divided by a wall, three quarters up. On the other side of the three quarter wall was Mama and Papa's bedroom. I did not like this ugly room at all. Brother, Elsa, and myseld all slept in this room and bed. We were so tired that we slept soundly all night. The next morning we had our breakfast. I cannot seem to remember what we ate. Then it was time to leave by train for Torrington, Conn. This place was to be our new town and our new home.
+  Today this place would be called a flop house. I did know know this was not the best of hotels. Our room was divided by a wall, three quarters up. On the other side of the three quarter wall was Mama and Papa's bedroom. I did not like this ugly room at all. Brother, Elsa, and myseld all slept in this room and bed. We were so tired that we slept soundly all night. The next morning we had our breakfast. I cannot seem to remember what we ate. Then it was time to leave by train for Torrington, Conn. This place was to be our new town and our new home.
   </p>
   </div>
 
   <div class="page">
     <h2>Page 24</h2>
   <p>
-    Our new home was on a street called Colt Avenue ("America").
+  Our new home was on a street called Colt Avenue ("America").
 
-    Our new home was a two family home. The owners lived on the second floor. We were on the first floor. Also, a little old man lived in a couple of rooms in the attic. He was a sweet person and we grew to love him. Our landlady's name was Delchissa. She had helped to furnish our home. We had just shades on the windows. There were only two bedrooms, a small dining room with only a round table and chairs and bare floors. The two bedrooms were also so bare. One room had two double size bes. Elsa and myself had one bed. The other bed, Papa and Mama slept in that bed. They were white iron beds. They were second hand and not new. But so fancy.
+  Our new home was a two family home. The owners lived on the second floor. We were on the first floor. Also, a little old man lived in a couple of rooms in the attic. He was a sweet person and we grew to love him. Our landlady's name was Delchissa. She had helped to furnish our home. We had just shades on the windows. There were only two bedrooms, a small dining room with only a round table and chairs and bare floors. The two bedrooms were also so bare. One room had two double size bes. Elsa and myself had one bed. The other bed, Papa and Mama slept in that bed. They were white iron beds. They were second hand and not new. But so fancy.
 
-    Lino had the small bedroom off from the dining room. I used to have such terrible nightmares at night. I would scream and I know I must have awakened everyone. I used to dream of being on the ship. I dreamt that the water was so high. Everyone was drowning. It seemed the dream would come to me almost every night. I know I must have been a problem to the family. I did not like America and wanted so much to go home again. I was so homesick.
+  Lino had the small bedroom off from the dining room. I used to have such terrible nightmares at night. I would scream and I know I must have awakened everyone. I used to dream of being on the ship. I dreamt that the water was so high. Everyone was drowning. It seemed the dream would come to me almost every night. I know I must have been a problem to the family. I did not like America and wanted so much to go home again. I was so homesick.
 
-    The family that owned our house were old friends. We were like almost one family. Delchissa and her husband had five boys, no daughters. So Elsa and I were treated like china dolls. Delchissa worked in a factory. So, of course, Mama went to work with Delchissa in late afternoon of each day. I can't seem to remember Papa working or where he worked.
+  The family that owned our house were old friends. We were like almost one family. Delchissa and her husband had five boys, no daughters. So Elsa and I were treated like china dolls. Delchissa worked in a factory. So, of course, Mama went to work with Delchissa in late afternoon of each day. I can't seem to remember Papa working or where he worked.
   </p>
   </div>
 
   <div class="page">
     <h2>Page 25</h2>
     <p>
-    left 
-    </p>
+  I do remember on Saturday nights, the people upstairs would come down. They had this big copper boiler on the stove. It would be boiling. They kept putting this glue made out of flour and water around the edges of the boiler where steam would escape. It seemed they stayed up all night. I was so upset about all this. So afraid that the whole thing would explode. They were making grappa, an Italian whiskey. Even the little old man that lived up in the attic would be there. I remember that he had a ring on his pinky finger. He would always point things out with that finger. Guess he was so proud of his ring he wanted everyone to notice it.
+
+  We arrived in America in the month o June, the year 1919 as I have already stated. All the children were on their summer vacation. Soon it was time for them to return to school again. We started school with the rest of the children. We had laready learned a few words in the American langauge from the children that lived near us. Also from the boys of our landlords. To everyone's surprise, we were surprise we were learing the language very fast.
+
+  From the school yard, I could see the roof of our house. So I would ask to get a drink of water from the fountain in the hall. So instead of drinking, I would run home. That also was done during the recess. We only went to school half days. There were too many children fro that school. It was an old building. Now standing there is an apartment buillding. You can still see the roof of t he house we lived in. One of the boys that lived upstairs was appointed to watch me and run
+   </p>
   </div>
 
   <div class="page">
     <h2>Page 26</h2>
-    <p>
-    left 
-    </p>
+  <p>
+  after me to bring me back. He also told the teacher when I was thirsty and asked if I could go to get my drink. I had permission and the boy followed me out, just in case I got the notion to run home again.
+  
+  Lino and Elsa were so good. They never caused any problems. They just seemed to accept everything. They never complained or said they wished they were back home again. We heard, one late morning, Mama and this man called our father talking loudly. I heard our father saying, "What is the matter with this little girl?" I do not know what they were arguing about. Brother went to his room. Elsa and I stayed in the dining room. We hugged our dolls that our Mama Vechia had given us. We seemed to find comfort in them. We both were so upset. I hated that awful dining room. I always would daydream, when I grew up I would have a beautiful china closet like Mama Vechia. I would have so many pretty things in it. This I would promise myself.
+
+  The weather was getting cold. We were nearing winter. In Italy we onlyhad a little snow that hardly covered the ground. No one even owned a coat. The women would throw a shawl over their shoulders when they went outdoors. So we were surprised at all the snow and the ice and cold.
+
+  The man (Mantua) and our father bought this old horse. They were planning on killing him to make sausage. They killed the poor old animal. They had the poor old fellow down in the cellar. How they got him down there, I was not at home
+  </p>
   </div>
 
   <div class="page">
     <h2>Page 27</h2>
     <p>
-    left 
+  at the time, so I do not know. They were all working so hard, cutting up the horse. It looked like a butcher shop down there. Even the little old man from the attic was there helping. Then it was made into sausage and also salami. The horse must have been real old. The sausage was so tough. It was given to us children to chew on. The flavor was real good, I remember. We had strings of sausage around our necks. Even the children of our neighbors. Through the years we had laughed so much whenever we spoke of this. The family tried cooking the sausage, it was so tough you could not chew it.
+
+  Our father and Mantua (our landlord) had some kind of disagreement. I do not know what it was. So we were moving. We had only lived ther enot even one year. I never liked moving, to thi day. So I watched Papa moving his wine barrel and also our grappa machine. I was hoping that he would forget that and leave it to Mantua. We did not have much to move, as we barely had any furniture. Our new place we had not seen, only by our father. He found this rent. Mama had not seen it either. So we were making our second move into another home.
+
+  What disappointment when I first saw this new home of ours. It was just a short distance from Colt Avenue. It was near a running river. Later on, I used to stay awake just to hear the water running in the river. Especially when it would be raining real hard. You could hear the  water rushing through so loudly and so swiftly. Elsa and I had our own bedroom. If we looked out our window we could see the river. We were so close to it. This was to be our home for almost a year and a 
     </p>
   </div>
 
