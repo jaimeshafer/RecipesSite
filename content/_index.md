@@ -1,9 +1,16 @@
 ---
-title: Family Receipes
+title: Family Recipes
 cascade:
     type: docs
 ---
 
-This website is a place to share the great family recipes of the Shafers and Laneys. Click a name from the family tree to be taken to their recipes.
+Welcome to our shared collection of family recipes, stories, and kitchen know-how. Choose a collection to start cooking, or visit the family tree to see the branches behind these dishes.
 
-{{< familytree >}}
+*Recipes, stories, and traditions passed down.*
+
+{{< cards >}}
+  {{< card link="/mawmaw/" title="Laney Family Recipes" image="/mawmaw/img/mawmaw.PNG" alt="MawMaw" subtitle="MawMaw's favorites, compiled by Martha Laney" >}}
+  {{< card link="/shafer-fam/" title="Shafer Family Recipes" image="/img/shafers.PNG" alt="Shafer family" subtitle="Everyday and holiday favorites" >}}
+  {{< card link="/family-tree/" title="Family Tree" icon="users" >}}
+  {{< card link="/kitchentipsreference/" title="Kitchen Tips & Reference" icon="light-bulb" >}}
+{{< /cards >}}

@@ -1,0 +1,47 @@
+{{- $tree := .Site.Data.familytree -}}
+<section class="family-tree" aria-labelledby="family-tree-title">
+  <h2 id="family-tree-title">{{ $tree.title }}</h2>
+  <p class="family-tree__intro">Drag to pan, use the mouse wheel or trackpad to zoom, and select a person to center their branch.</p>
+  <div id="FamilyChart" class="f3 f3-cont family-tree__canvas" aria-label="Interactive {{ $tree.title }}"></div>
+</section>
+
+<link rel="stylesheet" href="/vendor/family-chart/family-chart.css">
+<script src="/vendor/d3/d3.min.js"></script>
+<script src="/vendor/family-chart/family-chart.min.js"></script>
+<script>
+  (() => {
+    const source = {{ $tree | jsonify | safeJS }};
+    const relationships = source.relationships || [];
+    const data = source.people.map((person) => {
+      const parentRelationships = relationships.filter((relationship) => relationship.children.includes(person.id));
+      const childRelationships = relationships.filter((relationship) => relationship.parents.includes(person.id));
+      return {
+        id: person.id,
+        data: { gender: person.gender, name: person.name, avatar: person.image || '' },
+        rels: {
+          parents: parentRelationships.flatMap((relationship) => relationship.parents),
+          spouses: [...new Set(childRelationships.flatMap((relationship) => relationship.parents.filter((id) => id !== person.id)))],
+          children: [...new Set(childRelationships.flatMap((relationship) => relationship.children))]
+        }
+      };
+    });
+
+    const chart = f3.createChart('#FamilyChart', data)
+      .setTransitionTime(300)
+      .setCardXSpacing(210)
+      .setCardYSpacing(105);
+    chart.setCardHtml().setCardDisplay([['name']]);
+    chart.updateTree({ initial: true, tree_position: 'fit' });
+  })();
+</script>
+
+<style>
+  .family-tree { margin-top: 2rem; }
+  .family-tree__intro { color: #52525b; }
+  .family-tree__canvas.f3-cont { border: 1px solid #d4d4d8; border-radius: .75rem; height: min(72vh, 52rem); margin-top: 1.25rem; min-height: 34rem; overflow: hidden; }
+  .family-tree__canvas.f3 { --background-color: #fafafa; --female-color: #e9b7c0; --male-color: #b5d3dc; --text-color: #18181b; }
+  .family-tree__canvas .card_family_tree { font-weight: 600; }
+  .dark .family-tree__intro { color: #a1a1aa; }
+  .dark .family-tree__canvas.f3 { --background-color: #18181b; --female-color: #8f5663; --male-color: #426a77; --text-color: #f4f4f5; border-color: #3f3f46; }
+  @media (max-width: 640px) { .family-tree__canvas.f3-cont { height: 68vh; min-height: 28rem; } }
+</style>

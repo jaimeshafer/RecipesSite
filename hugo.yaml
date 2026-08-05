@@ -1,11 +1,17 @@
 baseURL: ""
 languageCode: en-us
-title: Our Family Recipe Site
+title: The Family Recipe Book
 module:
   imports:
     - path: github.com/imfing/hextra
 url: ""
 enableInlineShortcodes: true
+
+params:
+  footer:
+    displayPoweredBy: false
+  page:
+    width: wide
 
 taxonomies:
   category: categories
@@ -13,14 +19,14 @@ taxonomies:
 
 menu:
   main:
-    - name: MawMaw
+    - name: Laney Family
       pageRef: /mawmaw
       weight: 1
-    - name: Shafer
-      pageRef: /shafer
+    - name: Shafer Family
+      pageRef: /shafer-fam
       weight: 2
-    - name: About
-      pageRef: /
+    - name: Family Tree
+      pageRef: /family-tree
       weight: 3
     - name: Search
       weight: 4
