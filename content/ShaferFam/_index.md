@@ -1,5 +1,5 @@
 ---
-title: Shafer Fam
+title: Shafer Family
 cascade:
     type: docs
 ---

@@ -1,0 +1,163 @@
+# Stable IDs allow a person to participate in more than one family relationship
+# without duplicating their record. Keep generations sequential (0, 1, 2...) so
+# the renderer can lay the graph out in readable rows.
+title: Shafer and Laney Family Tree
+generations: [0, 1, 2, 3]
+people:
+  - id: donald-edison
+    name: Donald Edison
+    gender: M
+    generation: 0
+  - id: irene-edison
+    name: Irene Edison
+    gender: F
+    generation: 0
+  - id: martha-laney
+    name: Martha "MawMaw" Laney
+    gender: F
+    generation: 0
+    image: /mawmaw/img/mawmaw.PNG
+  - id: monty-laney
+    name: Monty "PawPaw" Laney
+    gender: M
+    generation: 0
+  - id: shari-shafer
+    name: Shari Shafer
+    gender: F
+    generation: 1
+    image: /img/shari.png
+  - id: dan-edison
+    name: Dan Edison
+    gender: M
+    generation: 1
+  - id: dan-shafer
+    name: Dan Shafer
+    gender: M
+    generation: 1
+  - id: frank-shafer
+    name: Frank Shafer
+    gender: M
+    generation: 1
+  - id: michel-shafer
+    name: Michel Shafer
+    gender: M
+    generation: 1
+  - id: kathy-shafer
+    name: Kathy Shafer
+    gender: F
+    generation: 1
+  - id: brent-laferty
+    name: Brent Laferty
+    gender: M
+    generation: 1
+  - id: germaine-shafer
+    name: Germaine Shafer
+    gender: F
+    generation: 0
+  - id: shelly-laney
+    name: Shelly Laney
+    gender: F
+    generation: 1
+  - id: mark-laney
+    name: Mark Laney
+    gender: M
+    generation: 1
+  - id: jaime-shafer
+    name: Jaime Shafer
+    gender: M
+    generation: 2
+    image: /img/jaime.png
+  - id: jonathan-shafer
+    name: Jonathan Shafer
+    gender: M
+    generation: 2
+    image: /img/jon.png
+  - id: kristian-shafer
+    name: Kristian "Kris" Shafer
+    gender: M
+    generation: 2
+    image: /img/kris.png
+  - id: hannah-shafer
+    name: Hannah Shafer
+    maidenName: Berry
+    gender: F
+    generation: 2
+  - id: brittney-shafer
+    name: Brittney Shafer
+    gender: F
+    generation: 2
+  - id: ashley-laney
+    name: Ashley Laney
+    gender: F
+    generation: 2
+  - id: mike-falcon
+    name: Mike Falcon
+    gender: M
+    generation: 2
+  - id: tyler-laney
+    name: Tyler Laney
+    gender: M
+    generation: 2
+  - id: shelby-laney
+    name: Shelby Laney
+    gender: F
+    generation: 2
+  - id: jake-mucollum
+    name: Jake Mucollum
+    gender: M
+    generation: 2
+  - id: haley-goddard
+    name: Haley Goddard
+    birthSurname: Laney
+    gender: F
+    generation: 2
+  - id: tyler-goddard
+    name: Tyler Goddard
+    gender: M
+    generation: 2
+  - id: lucy-shafer
+    name: Lucy Shafer
+    gender: F
+    generation: 3
+  - id: brooks-mucollum
+    name: Brooks Mucollum
+    gender: M
+    generation: 3
+  - id: riley-mucollum
+    name: Riley Mucollum
+    gender: M
+    generation: 3
+  - id: brayden-mucollum
+    name: Brayden Mucollum
+    gender: M
+    generation: 3
+  - id: tasom-folcon
+    name: Tasom Folcon
+    gender: M
+    generation: 3
+
+# Each relationship connects one or more parents to their children. A person can
+# appear in several relationships, which is what joins the Shafer and Laney sides.
+relationships:
+  - parents: [donald-edison, irene-edison]
+    children: [shari-shafer, dan-edison]
+  - parents: [martha-laney, monty-laney]
+    children: [mark-laney]
+  - parents: [shari-shafer, dan-shafer]
+    children: [jaime-shafer, jonathan-shafer, kristian-shafer]
+  - parents: [germaine-shafer]
+    children: [dan-shafer, frank-shafer, michel-shafer, kathy-shafer]
+  - parents: [kathy-shafer, brent-laferty]
+    children: []
+  - parents: [shelly-laney, mark-laney]
+    children: [brittney-shafer, ashley-laney, tyler-laney, shelby-laney, haley-goddard]
+  - parents: [jaime-shafer, brittney-shafer]
+    children: [lucy-shafer]
+  - parents: [kristian-shafer, hannah-shafer]
+    children: []
+  - parents: [ashley-laney, mike-falcon]
+    children: [tasom-folcon]
+  - parents: [shelby-laney, jake-mucollum]
+    children: [brooks-mucollum, riley-mucollum, brayden-mucollum]
+  - parents: [haley-goddard, tyler-goddard]
+    children: []

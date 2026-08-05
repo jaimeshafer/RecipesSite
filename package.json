@@ -1,0 +1,10 @@
+{
+  "name": "recipes-site",
+  "private": true,
+  "packageManager": "pnpm@11.11.0",
+  "description": "Dependency provenance for the locally vendored family-tree assets.",
+  "devDependencies": {
+    "d3": "7.9.0",
+    "family-chart": "0.9.0"
+  }
+}
