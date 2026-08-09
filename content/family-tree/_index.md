@@ -10,6 +10,6 @@ toc: false
 ## Recipe collections
 
 {{< cards >}}
-  {{< card link="/shafer-fam/grammies-cookbook/" title="Grammie's Cookbook" icon="book-open" >}}
-  {{< card link="/shafer-fam/brittneys-cookbook/" title="Brittney's Cookbook" icon="book-open" >}}
+  {{< card link="/shaferfam/grammiescookbook/" title="Grammie's Cookbook" icon="book-open" >}}
+  {{< card link="/shaferfam/brittneyscookbook/" title="Brittney's Cookbook" icon="book-open" >}}
 {{< /cards >}}

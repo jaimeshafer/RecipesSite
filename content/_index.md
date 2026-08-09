@@ -10,7 +10,7 @@ Welcome to our shared collection of family recipes, stories, and kitchen know-ho
 
 {{< cards >}}
   {{< card link="/mawmaw/" title="Laney Family Recipes" image="/mawmaw/img/mawmaw.PNG" alt="MawMaw" subtitle="MawMaw's favorites, compiled by Martha Laney" >}}
-  {{< card link="/shafer-fam/" title="Shafer Family Recipes" image="/img/shafers.PNG" alt="Shafer family" subtitle="Everyday and holiday favorites" >}}
+  {{< card link="/shaferfam/" title="Shafer Family Recipes" image="/img/shafers.PNG" alt="Shafer family" subtitle="Everyday and holiday favorites" >}}
   {{< card link="/family-tree/" title="Family Tree" icon="users" >}}
   {{< card link="/kitchentipsreference/" title="Kitchen Tips & Reference" icon="light-bulb" >}}
 {{< /cards >}}
