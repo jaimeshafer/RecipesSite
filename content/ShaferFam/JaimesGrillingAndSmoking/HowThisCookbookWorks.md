@@ -1,5 +1,7 @@
 ---
 title: How This Cookbook Works
+sidebar:
+  exclude: true
 ---
 
 This is not a collection of generic internet recipes. It documents how Jaime actually cooks: start with a working method, record the cook and feedback, make specific changes, then repeat until the result is reliable.
